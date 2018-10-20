@@ -15,7 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+Lady dear, if Fairies may  
+For a moment lay aside   
+Cunning tricks and elfish play,   
+'Tis at happy Christmas-tide. 
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 Two roads diverged in a yellow wood,  
@@ -35,3 +39,10 @@ And this was odd, because it was
       
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+The time of birds died sometime between  
+When Robert Kennedy, Jr. disappeared and the Berlin  
+Wall came down. Hope was pro forma then.  
+We’d begun to talk about shelf-life. Parents  
+Thought they’d gotten somewhere. I can’t tell you  
+What to make of this now without also saying that when  
+I was 19 and read in a poem that the pure products of America go crazy  
